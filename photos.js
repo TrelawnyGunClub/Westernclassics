@@ -3,6 +3,6 @@
    2. Add one line per photo below, then save. No other change is needed. */
 const PHOTOS = [
   { src: "assets/photos/DSC_6757.jpg", alt: "JSC Prezi" },
-  // { src: "assets/photos/shoot-01.jpg", alt: "Shooters on the line" },
+  { src: "assets/photos/ROG_3977.jpg", alt: "Shooters on the line" },
   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
 ];
