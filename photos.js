@@ -9,7 +9,7 @@ const PHOTOS = [
   { src: "assets/photos/ROG_3929.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_6900.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_7279.jpg", alt: "Shooters on the line" },
-  { src: "assets/photos/DCS_7234.jpg", alt: "Shooters on the line" },
+  { src: "assets/photos/DSC_7234.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_7075.jpg", alt: "Shooters on the line" },
   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
 ];
