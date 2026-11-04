@@ -4,11 +4,11 @@
 const PHOTOS = [
   { src: "assets/photos/DSC_6757.jpg", alt: "JSC Prezi" },
   { src: "assets/photos/ROG_3977.jpg", alt: "Shooters on the line" },
+  { src: "assets/photos/DCS_6882.jpg", alt: "Shooters on the line" }, 
   { src: "assets/photos/DSC_6777.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/ROG_3929.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_6900.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_7279.jpg", alt: "Shooters on the line" },
-  { src: "assets/photos/DCS_6882.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DCS_7234.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DCS_7075.jpg", alt: "Shooters on the line" },
   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
