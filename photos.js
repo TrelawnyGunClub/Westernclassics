@@ -15,6 +15,11 @@ const PHOTOS = [
   { src: "assets/photos/DSC_7194.jpg", alt: "Shooters on the line" }, 
   { src: "assets/photos/DSC_7161.jpg", alt: "Shooters on the line" },
   { src: "assets/photos/DSC_7157.jpg", alt: "Shooters on the line" },   
-  // { src: "assets/photos/DSC_7194.jpg", alt: "Shooters on the line" }, 
+  { src: "assets/photos/ROG_3931.jpg", alt: "Prize giving" }, 
+   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
+   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
+   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
+   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
+   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
   // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
 ];
