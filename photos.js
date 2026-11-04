@@ -20,7 +20,7 @@ const PHOTOS = [
   { src: "assets/photos/ROG_3912.jpg", alt: "Prize giving" },
   { src: "assets/photos/ROG_3875.jpg", alt: "Prize giving" },
   { src: "assets/photos/ROG_3966.jpg", alt: "Prize giving" },
-  { src: "assets/photos/ROG_3875.jpg", alt: "Prize giving" },
+  { src: "assets/photos/ROG_3894.jpg", alt: "Prize giving" },
   { src: "assets/photos/ROG_3912.jpg", alt: "Prize giving" },
   { src: "assets/photos/ROG_3875.jpg", alt: "Prize giving" },
    // { src: "assets/photos/shoot-02.jpg", alt: "Prize giving" },
