@@ -5,6 +5,6 @@
       tier: "title", "gold", "silver" or "station"
       url:  the sponsor's website or Instagram page. Leave it as "" for no link. */
 const SPONSORS = [
-  { tier: "station", name: "Super Squad", logo: "assets/sponsors/super-squad.png", url: "" },
+  { tier: "station", name: "Super Squad", logo: "assets/sponsors/super-squad.jpg", url: "" },
   // { tier: "gold", name: "Company name", logo: "assets/sponsors/company.png", url: "https://example.com" },
 ];
